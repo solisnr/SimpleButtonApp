@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleButtonApp</string>
+    <string name="button_press_me">Press Me</string>
+    <string name="button_ouch">Ouch</string>
+</resources>
